@@ -3,9 +3,7 @@ Creating this repo to keep track of my AI journey
 
 # Table of Contents 
 
-# 2024
 
-## December
 
 
 
@@ -22,3 +20,9 @@ Creating this repo to keep track of my AI journey
 8. Jhono https://www.youtube.com/@datasciencecastnet
 
 
+# 2024
+
+## December
+
+#### 25th December 2024
+- Attempted to fuse two music waveforms together. 
