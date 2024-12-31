@@ -31,14 +31,24 @@ Creating this repo to keep track of my AI journey
 5. Data Center and Energy. 
 6. Sentiment Analysis project for Williams. 
 7. Super car comparison (???)
+8. Compare and contrast Free versions of LLMs on a *useful* task. 
 
 # Diary
 
 ## December
 
+**31st December 2024**
+- Watched [Jhono's AI Art video #2](https://www.youtube.com/watch?v=peTkMmRrxPg&list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8&index=2). Convolution layers in CNNs apply filters. When filters are applied, over an image, the resulting image has brighter areas that got activated from that filter. Filters are features that learned. Features are start at random and overtime they learn. Networks learn useful features from the inputs. After applying filters, the subsequent layers to *down-sampling* (e.g. max-pooling). 
+    - Key concepts words
+        - padding
+        - stride 
+
+**30th December 2024**
+- Completed NLP-NER project on Nvidia 
+
 **29th December 2024**
 
-- [xAIGarage.com](https://xaigarage.com) - thought of a new website URL. Use [nbdev](https://nbdev.fast.ai/) to build a portfolio website. 
+- [xAIGarage.com](https://xaigarage.com), [hummingbirdlabs.ai] - thought of a new website URL. Use [nbdev](https://nbdev.fast.ai/) to build a portfolio website. 
 
 **26th December 2024**
 - Created a script to download YouTube comments. The goal is to perform sentiment analysis on YouTube video comments.  Scrape only about 500 comments. 
