@@ -27,7 +27,7 @@ Creating this repo to keep track of my AI journey
 1. [Google AI Studio](https://aistudio.google.com/)
 2. NER for Tech KeyNotes. 
 3. Zuckerberg case-study with NLP.
-4. Analyze *#chip* race. 
+4. ~Analyze *#chip* race~. (found that this has already been done)
 5. Data Center and Energy. 
 6. Sentiment Analysis project for Williams. 
 7. Super car comparison (???)
@@ -35,24 +35,40 @@ Creating this repo to keep track of my AI journey
 
 # Diary
 
-## December
+## 2025
+
+### January
+
+**2nd January 2024**
+
+1. Started using [DeepSeek](https://www.deepseek.com/). DeepSeek is build atop ChatGPT?
+2. Learn that my idea around *GPU benchmark* is already exists. This means, this is a valid problem and people have already worked on it. So, park that idea. 
+
+**1st January 2024**
+
+1. Completed the blog post on [NVidia NLP/ NER project](https://medium.com/lids-magazine/decoding-nvidias-strategic-focus-insights-from-an-nlp-project-b64de9d707c8).
+
+
+## 2024
+
+### December
 
 **31st December 2024**
-- Watched [Jhono's AI Art video #2](https://www.youtube.com/watch?v=peTkMmRrxPg&list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8&index=2). Convolution layers in CNNs apply filters. When filters are applied, over an image, the resulting image has brighter areas that got activated from that filter. Filters are features that learned. Features are start at random and overtime they learn. Networks learn useful features from the inputs. After applying filters, the subsequent layers to *down-sampling* (e.g. max-pooling). 
+1. Watched [Jhono's AI Art video #2](https://www.youtube.com/watch?v=peTkMmRrxPg&list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8&index=2). Convolution layers in CNNs apply filters. When filters are applied, over an image, the resulting image has brighter areas that got activated from that filter. Filters are features that learned. Features are start at random and overtime they learn. Networks learn useful features from the inputs. After applying filters, the subsequent layers to *down-sampling* (e.g. max-pooling). 
     - Key concepts words
         - padding
         - stride 
 
 **30th December 2024**
-- Completed NLP-NER project on Nvidia 
+1. Completed NLP-NER project on Nvidia 
 
 **29th December 2024**
 
-- [xAIGarage.com](https://xaigarage.com), [hummingbirdlabs.ai] - thought of a new website URL. Use [nbdev](https://nbdev.fast.ai/) to build a portfolio website. 
+1. [xAIGarage.com](https://xaigarage.com), [hummingbirdlabs.ai] - thought of a new website URL. Use [nbdev](https://nbdev.fast.ai/) to build a portfolio website. 
 
 **26th December 2024**
-- Created a script to download YouTube comments. The goal is to perform sentiment analysis on YouTube video comments.  Scrape only about 500 comments. 
+1. Created a script to download YouTube comments. The goal is to perform sentiment analysis on YouTube video comments.  Scrape only about 500 comments. 
 
 
 **25th December 2024**
-- Attempted to fuse two music waveforms together. 
+1. Attempted to fuse two music waveforms together. 
