@@ -39,6 +39,9 @@ Creating this repo to keep track of my AI journey
 
 ### January
 
+**5th January 2024**
+1. Started reading  [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801819312) by Sebastian Rachka. 
+
 **2nd January 2024**
 
 1. Started using [DeepSeek](https://www.deepseek.com/). DeepSeek is build atop ChatGPT?
