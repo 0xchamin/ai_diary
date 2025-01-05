@@ -43,6 +43,7 @@ Creating this repo to keep track of my AI journey
 
 1. Started using [DeepSeek](https://www.deepseek.com/). DeepSeek is build atop ChatGPT?
 2. Learn that my idea around *GPU benchmark* is already exists. This means, this is a valid problem and people have already worked on it. So, park that idea. 
+3. Found a paper titled [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/pdf/2401.02038). 
 
 **1st January 2024**
 
