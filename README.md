@@ -6,7 +6,7 @@ Creating this repo to keep track of my AI journey
 
 
 
-# Resources 
+# Resources/ Tutorials 
 1. [fast.ai](https://course.fast.ai/) - to learn Machine Learning, Deep Learning through hands on work
 2. Stanford’s cs231n Computer Vision lecture series by Andrej Karparthy
 3. [Eureka Labs](https://eurekalabs.ai/) by [Andrej Karparthy](https://karpathy.ai/)
@@ -17,6 +17,12 @@ Creating this repo to keep track of my AI journey
 6. [EleutherAI](https://www.eleuther.ai/) - 
 7. Creative tools: https://pharmapsychotic.com/tools.html 
 8. Jhono https://www.youtube.com/@datasciencecastnet
+9. [StaStanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+    - A Highly rated video
+10. [CIS 7000](https://llm-class.github.io/) 
+    - Free course from PhDs and industry leaders
+11. [Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel](https://www.youtube.com/watch?v=b80by3Xk_A8)
+    - NLP crashcourse with transformers
 
 # Projects
 ## 1. F1 Car Classifier 
@@ -32,6 +38,7 @@ Creating this repo to keep track of my AI journey
 6. Sentiment Analysis project for Williams. 
 7. Super car comparison (???)
 8. Compare and contrast Free versions of LLMs on a *useful* task. 
+9. Master following tools **Amazon SageMaker**, **Google Vertex AI**, **CursorAI**, **Windsurf**. 
 
 # Diary
 
