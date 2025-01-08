@@ -46,6 +46,11 @@ Creating this repo to keep track of my AI journey
 
 ### January
 
+**7th January 2024**
+
+1. [StaStanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+    - Overfitting is really good when you build your model on high quality data (eg. Wikipedia)
+
 **5th January 2024**
 1. Started reading  [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801819312) by Sebastian Rachka. 
 
