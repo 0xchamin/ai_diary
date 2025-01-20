@@ -23,11 +23,17 @@ Creating this repo to keep track of my AI journey
     - Free course from PhDs and industry leaders
 11. [Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel](https://www.youtube.com/watch?v=b80by3Xk_A8)
     - NLP crashcourse with transformers
+12. [Hugging Face courses](https://huggingface.co/learn)
+    - Huggig Face provides a courses covering NLP, Audio, Diffusion etc. 
+13. [2025 Reading List](https://www.latent.space/p/2025-papers)
 
 # Projects
-## 1. F1 Car Classifier 
-## 2. Fine tune Flux.1-dev Stable Diffusion
-## 3. Multi-Agentic application with CrewAI  
+#### 1. F1 Car Classifier 
+#### 2. Fine tune Flux.1-dev Stable Diffusion
+#### 3. Multi-Agentic application with CrewAI  
+#### 4. Meta vs Nvidia sustainability project 
+#### 5. AI safety project with Claude
+    - Upload image and provide text description. ML model provide analyze safety. 
 
 # To learn/ Interests (List of Todos)
 1. [Google AI Studio](https://aistudio.google.com/)
@@ -45,6 +51,12 @@ Creating this repo to keep track of my AI journey
 ## 2025
 
 ### January
+
+**19th January 2024**
+1. Completed **Meta vs Nvida** Sustainability NLP project. 
+
+**9th January 2024**
+1. Used Claude to build up multiple AI projects. 
 
 **7th January 2024**
 
